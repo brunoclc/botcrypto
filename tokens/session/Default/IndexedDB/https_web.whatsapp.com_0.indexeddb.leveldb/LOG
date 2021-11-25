@@ -1,0 +1,33 @@
+2021/11/25-00:25:47.802 7610 Reusing MANIFEST C:\NodeProjects\botcrypto\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/25-00:25:47.802 7610 Recovering log #47
+2021/11/25-00:25:47.868 7610 Reusing old log C:\NodeProjects\botcrypto\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000047.log 
+2021/11/25-00:25:47.868 7610 Delete type=2 #43
+2021/11/25-00:25:47.868 7610 Delete type=2 #44
+2021/11/25-00:25:47.868 7610 Delete type=2 #45
+2021/11/25-00:25:47.868 7610 Delete type=2 #48
+2021/11/25-00:26:02.499 4e98 Level-0 table #54: started
+2021/11/25-00:26:02.525 4e98 Level-0 table #54: 1061881 bytes OK
+2021/11/25-00:26:02.526 4e98 Delete type=0 #47
+2021/11/25-00:26:02.672 6cb0 Compacting 1@1 + 3@2 files
+2021/11/25-00:26:02.785 6cb0 Generated table #55@1: 37014 keys, 2232312 bytes
+2021/11/25-00:26:02.853 6cb0 Generated table #56@1: 19163 keys, 2191530 bytes
+2021/11/25-00:26:02.917 6cb0 Generated table #57@1: 56524 keys, 1114437 bytes
+2021/11/25-00:26:02.917 6cb0 Compacted 1@1 + 3@2 files => 5538279 bytes
+2021/11/25-00:26:02.918 6cb0 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/11/25-00:26:11.098 6cb0 Level-0 table #59: started
+2021/11/25-00:26:11.123 6cb0 Level-0 table #59: 1063515 bytes OK
+2021/11/25-00:26:11.125 6cb0 Delete type=2 #49
+2021/11/25-00:26:11.125 6cb0 Delete type=2 #50
+2021/11/25-00:26:11.125 6cb0 Delete type=2 #51
+2021/11/25-00:26:11.125 6cb0 Delete type=0 #53
+2021/11/25-00:26:11.125 6cb0 Delete type=2 #54
+2021/11/25-00:26:11.158 2938 Compacting 1@1 + 3@2 files
+2021/11/25-00:26:11.321 2938 Generated table #60@1: 37899 keys, 2231558 bytes
+2021/11/25-00:26:11.383 2938 Generated table #61@1: 15858 keys, 2189348 bytes
+2021/11/25-00:26:11.448 2938 Generated table #62@1: 66771 keys, 1364859 bytes
+2021/11/25-00:26:11.448 2938 Compacted 1@1 + 3@2 files => 5785765 bytes
+2021/11/25-00:26:11.450 2938 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/11/25-00:26:11.450 2938 Delete type=2 #55
+2021/11/25-00:26:11.450 2938 Delete type=2 #56
+2021/11/25-00:26:11.450 2938 Delete type=2 #57
+2021/11/25-00:26:11.450 2938 Delete type=2 #59
